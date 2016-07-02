@@ -1,7 +1,8 @@
 # R.MobileInsights
-Retention calculation and tutorial completion insights
 
 Click here to view the report: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.MobileInsights/blob/master/Report.html
+
+Retention calculation and tutorial completion insights
 
 This project focuses on:
 
