@@ -1,6 +1,6 @@
 # R.MobileInsights
 
-Click here to view the report: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.MobileInsights/blob/master/Report.html
+Download the Report.html or view it online: http://htmlpreview.github.io/?https://github.com/anthonyhojun/R.MobileInsights/blob/master/Report.html
 
 Retention calculation and tutorial completion insights
 
